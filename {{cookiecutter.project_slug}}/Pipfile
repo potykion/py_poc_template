@@ -14,7 +14,8 @@ pytest = "*"
 pre-commit = "*"
 mypy = "*"
 pylint = "*"
-black = "*"
+black = "==18.9b0"
+importlib-resources = "*"
 
 
 [requires]
